@@ -2,6 +2,5 @@
 *.tfstate
 *.tfstate.*
 terraform.tfstate.d/
-*.csv
 build/
 node_modules/
